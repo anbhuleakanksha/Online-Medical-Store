@@ -27,8 +27,6 @@ An online platform to buy medicines, personal care products, and COVID essential
 - MySQL Workbench (if MySQL is used)
 - MS-Access
 
----
-
 ## 🚀 Features
 
 ### 👤 User Module:
