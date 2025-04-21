@@ -46,8 +46,7 @@ An online platform to buy medicines, personal care products, and COVID essential
 - Manage Feedback
 
 🙋‍♀️ Developed By
-
-  Anbhule Akanksha
+  Anbhule Akanksha  
 💻 MCA Student | Web Developer
 🏡 From Ahmednagar, India
 🏅 State-Level Innovation Award Winner 2023-24
