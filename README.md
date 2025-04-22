@@ -17,7 +17,6 @@ An online platform to buy medicines, personal care products, and COVID essential
 ### 💻 Backend:
 - Java (JDBC)
 - Servlet
-- Spring Boot / Spring MVC (if applicable)
 - MS Access Database / MySQL
 
 ### 🧰 Tools:
